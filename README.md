@@ -144,15 +144,6 @@ tracker = cv2.legacy.TrackerCSRT_create()
 # Automatically optimized for real-time performance
 ```
 
-## 🎯 Performance Metrics
-
-### Detection Performance
-| Model | Speed (FPS) | mAP@0.5 | Model Size |
-|-------|-------------|---------|------------|
-| YOLOv5s | ~45 FPS | 56.0% | 14.1 MB |
-| YOLOv8s | ~50 FPS | 61.8% | 21.5 MB |
-| Mask R-CNN | ~15 FPS | 58.2% | 170 MB |
-
 ## 🔧 Code Structure
 
 ```
