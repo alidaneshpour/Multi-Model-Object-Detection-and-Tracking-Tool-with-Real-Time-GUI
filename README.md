@@ -33,7 +33,7 @@ A comprehensive computer vision application that integrates multiple state-of-th
 - **Threaded Processing**: Non-blocking video playback and processing
 - **Fullscreen Support**: Press Escape to toggle fullscreen mode
 
-## 🏗️ Architecture
+## 🖥️ GUI Environment
 
 <p align="center">
   <img src="readme_images/GUI_Environment.PNG" alt="GUI Environment" width="900">
