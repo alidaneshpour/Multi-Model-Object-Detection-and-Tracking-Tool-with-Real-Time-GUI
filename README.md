@@ -258,26 +258,7 @@ black main.py
 flake8 main.py
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Ultralytics**: YOLOv5 and YOLOv8 implementations
-- **Facebook Research**: Mask R-CNN architecture
-- **OpenCV Community**: Computer vision algorithms and tools
-- **PyTorch Team**: Deep learning framework and pre-trained models
-
-## 📞 Contact
-
-- **Developer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-
----
 
 ⭐ **Star this repository** if you find it helpful!
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/multi-model-object-detection-tracking.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/yourusername/multi-model-object-detection-tracking/stargazers/)
+
