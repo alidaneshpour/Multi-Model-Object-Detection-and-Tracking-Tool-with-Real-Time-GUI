@@ -9,9 +9,6 @@ Pillow>=8.0.0
 numpy>=1.21.0
 matplotlib>=3.3.0
 
-# Optional: for better video codec support
-opencv-python-headless>=4.5.0
-
 # Development tools (optional - remove if not needed in production)
 black>=21.0b0
 flake8>=3.9.0
