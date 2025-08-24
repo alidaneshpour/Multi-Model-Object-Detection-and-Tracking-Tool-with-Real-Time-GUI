@@ -153,11 +153,6 @@ tracker = cv2.legacy.TrackerCSRT_create()
 | YOLOv8s | ~50 FPS | 61.8% | 21.5 MB |
 | Mask R-CNN | ~15 FPS | 58.2% | 170 MB |
 
-### System Requirements
-- **Minimum**: 8GB RAM, Intel i5 or equivalent
-- **Recommended**: 16GB RAM, dedicated GPU, Intel i7 or equivalent
-- **Optimal**: 32GB RAM, NVIDIA RTX series GPU
-
 ## 🔧 Code Structure
 
 ```
