@@ -199,20 +199,6 @@ project/
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-### Development Setup
-```bash
-# Install development dependencies
-pip install -r requirements-dev.txt
-
-# Run tests
-python -m pytest tests/
-
-# Code formatting
-black main.py
-flake8 main.py
-```
-
-
 ⭐ **Star this repository** if you find it helpful!
 
 
