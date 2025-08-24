@@ -36,7 +36,7 @@ A comprehensive computer vision application that integrates multiple state-of-th
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="readme_images/GUI_Environment.PNG" alt="GUI Environment" width="800">
+  <img src="readme_images/GUI_Environment.PNG" alt="GUI Environment" width="900">
 </p>
 
 ## 🛠️ Technology Stack
