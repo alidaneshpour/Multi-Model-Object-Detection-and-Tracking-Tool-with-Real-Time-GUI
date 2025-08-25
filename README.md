@@ -31,7 +31,7 @@ A Python Tkinter‑based computer vision application integrating **YOLOv5**, **Y
 
 ---
 
-## 🖥️ Example GUI
+## 🖥️ GUI Environment
 
 <p align="center">
   <img src="readme_images/GUI_Environment.PNG" alt="GUI Environment" width="900">
