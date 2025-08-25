@@ -120,7 +120,8 @@ project/
 ├── readme_images/      # Images used in README
 ├── GUI.ipynb           # Main application (Tkinter GUI + detection/tracking)
 ├── requirements.txt    # Dependencies
-└── README.md           # Project documentation
+├── README.md           # Project documentation
+└── LICENSE             # MIT license file
 ```
 
 ---
